@@ -14,9 +14,9 @@
 
 <br/>
 
-<img src="./public/images/screenshots/demo.gif" alt="Rolex website live demo — hero load animation" width="100%" />
+<img src="./public/images/screenshots/demo.gif" alt="Rolex website full walkthrough — hero through footer" width="100%" />
 
-<sub>🎬 Hero load-in animation, captured from the live site. <a href="https://guls-rolex-web.vercel.app/">View the full scrolling experience live →</a></sub>
+<sub>🎬 Full site walkthrough (hero → collection → craftsmanship → legacy → footer), compressed from screen recording. <a href="https://guls-rolex-web.vercel.app/">View it crisp on the live site →</a></sub>
 
 </div>
 
